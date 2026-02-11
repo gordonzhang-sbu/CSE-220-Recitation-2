@@ -53,4 +53,3 @@ void print_bits(uint16_t value)
    }
    printf("\n");
 }
-
